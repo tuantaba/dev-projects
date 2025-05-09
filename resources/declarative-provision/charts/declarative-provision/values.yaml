@@ -2,12 +2,9 @@
 namespace: intranet-front
 
 groups:
-  - name: intranet-devs
-    role: edit
   - name: intranet-managers
     role: view
-  - name: test-tuantb-group-devs
-    role: edit    
+
 
 resourceQuotas:
   pods: 8
