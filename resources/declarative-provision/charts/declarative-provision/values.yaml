@@ -6,6 +6,8 @@ groups:
     role: edit
   - name: intranet-managers
     role: view
+  - name: test-tuantb-group-devs
+    role: edit    
 
 resourceQuotas:
   pods: 8
